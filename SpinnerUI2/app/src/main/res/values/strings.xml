@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerUI</string>
+    <string name="plants">太阳系行星</string>
+    <string-array name="plants_array">
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Surface</item>
+    </string-array>
+</resources>
